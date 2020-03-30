@@ -1,1 +1,4 @@
 theme: jekyll-theme-time-machine
+title: MileSnap
+description: An application that allows a user to take a picture of a gas station pricing sign and recieve the fuel type and its corresponding price.
+show_downloads: true
